@@ -6,7 +6,7 @@
  * @returns {number}
  */
 function summarize(a , b) {
-    return (a + b);
+    return a + b;
 }
 
 /**Функция возвращает разницу 2ух заданных чисел
@@ -15,7 +15,7 @@ function summarize(a , b) {
  * @returns {number}
  */
 function deduction(c, d) {
-    return(c - d);
+    return c - d;
 }
 
 /**Функция возвращает деление 2ух заданных чисел
@@ -24,7 +24,7 @@ function deduction(c, d) {
  * @returns {number}
  */
 function division(a, b) {
-    return(a / b);
+    return a / b;
 }
 
 
@@ -34,5 +34,5 @@ function division(a, b) {
  * @returns {number}
  */
 function multiplication(c, d) {
-    return(c * d);
+    return c * d;
 }
